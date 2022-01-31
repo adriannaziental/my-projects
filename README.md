@@ -1,25 +1,55 @@
-# My projects
-This repository contains simple scripts in various technologies.
+# Bash training scripts
+This branch contains simple scripts written to practise Bash scripts.
 
 
 ## Table of Contents
 * [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Setup](#setup)
 * [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
 * [Contact](#contact)
 * [License](#license)
 
 
 ## General Information
-This repository contains simple scripts written to practise various technologies. Each branch consists of projects created in certain technology.
-More information about branches, projects and technologies can be found in README files on particular branches.
+The branch contains various projects written to practise Bash scripts. The aim of this repository is also to show how my skills improve in time.
+
+
+## Technologies Used
+- GNU bash, version 5.0.17(1)-release
+
+
+## Setup
+To run any project follow the procedure:
+
+- Set the script executable permission by running chmod command:
+
+`chmod +x file_name.sh`
+
+- Run or execute the script using the following syntax:
+
+`./file_name.sh`
+
+or
+
+`sh file_name.sh`
+
+or
+
+`bash file_name.sh`
 
 
 ## Project Status
 Projects are in progress.
 
 
+## Room for Improvement
+The scripts are going to be improved and developed during my process of learning. The totally new projects are going to be placed here, too.
+
+
 ## Contact
-Created by [adriannaziental](https://www.linkedin.com/in/adriannaziental/) - feel free to contact me!
+Created by [adriannaziental](https://www.github.com/adriannaziental) - feel free to contact me!
 
 
 ## License
