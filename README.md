@@ -1,25 +1,28 @@
-# My projects
-This repository contains simple scripts in various technologies.
+![gitlogo](https://user-images.githubusercontent.com/97228833/170969092-dd81b03c-5a7b-46ad-907c-7e155d97db1b.png)
+
+# Testing
+This branch contains bug reports, test reports, test cases and test scenarios, all created by myself to gain experience in testing.
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Project Status](#project-status)
+* [Saucedemo](#saucedemo)
 * [Contact](#contact)
 * [License](#license)
 
 
-## General Information
-This repository contains simple scripts written to practise various technologies. Each branch consists of projects created in certain technology.
-More information about branches, projects and technologies can be found in README files on particular branches.
+## Saucedemo
+This is a Test Plan Execution Report of sorting functionality on [saucedemo.com](https://www.saucedemo.com/).
 
-
-## Project Status
-Projects are in progress.
+[![Zrzut ekranu (111)](https://user-images.githubusercontent.com/97228833/170493679-ec8929d2-f59a-4000-bbd8-a3bf127baede.png)](https://drive.google.com/file/d/1EXCH0yg1RdKOv8yQedxvTRpTuXeETc0g/view?usp=sharing) <- click here; the link will open as a google drive document.
+#### Environment
+- Firefox Browser 96.0.3 (64-bit)
+- System Windows 10 Home
+#### Used tools
+- TestLink
 
 
 ## Contact
-Created by [adriannaziental](https://www.linkedin.com/in/adriannaziental/) - feel free to contact me!
+Created by [adriannaziental](https://www.github.com/adriannaziental) - feel free to contact me!
 
 
 ## License
