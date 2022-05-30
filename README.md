@@ -1,5 +1,6 @@
+![gitlogo](https://user-images.githubusercontent.com/97228833/170969092-dd81b03c-5a7b-46ad-907c-7e155d97db1b.png)
 # Bash training scripts
-This branch contains simple scripts written to practise Bash scripts.
+This branch contains simple scripts written to practise Bash.
 
 
 ## Table of Contents
@@ -13,7 +14,7 @@ This branch contains simple scripts written to practise Bash scripts.
 
 
 ## General Information
-The branch contains various projects written to practise Bash scripts. The aim of this repository is also to show how my skills improve in time.
+The branch contains various projects written to practise Bash. The aim of this repository is also to show how my skills improve in time.
 
 
 ## Technologies Used
