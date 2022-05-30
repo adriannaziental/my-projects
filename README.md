@@ -1,5 +1,6 @@
+![gitlogo](https://user-images.githubusercontent.com/97228833/170969092-dd81b03c-5a7b-46ad-907c-7e155d97db1b.png)
 # My projects
-This repository contains simple scripts in various technologies.
+This repository contains simple scripts in various technologies and my other projects.
 
 
 ## Table of Contents
