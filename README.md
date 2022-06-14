@@ -6,6 +6,7 @@ This branch contains bug reports, test reports, test cases and test scenarios, a
 
 ## Table of Contents
 * [Saucedemo](#saucedemo)
+* [Skleptest](#skleptest)
 * [Contact](#contact)
 * [License](#license)
 
@@ -19,6 +20,17 @@ This is a Test Plan Execution Report of sorting functionality on [saucedemo.com]
 - System Windows 10 Home
 #### Used tools
 - TestLink
+
+
+## Skleptest
+These are tests for registration functionality on [skleptest.pl](http://skleptest.pl/) - Generic Shop.
+
+[TEST SCENARIO](https://drive.google.com/file/d/1McFY9W1YY8Bf448Drore9OGktmp3We7b/view?usp=sharing)<- click here; the link will open as a google drive document.
+#### Environment
+- Opera Browser version 87.0.4390.45
+- System Windows 10 Home
+#### Used tools
+- TestRail
 
 
 ## Contact
