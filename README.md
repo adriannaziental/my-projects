@@ -2,6 +2,10 @@
 # My projects
 This repository contains simple scripts in various technologies and my other projects.
 
+### Branches:
+* [Testing](https://github.com/adriannaziental/my-projects/tree/testing)
+* [Bash](https://github.com/adriannaziental/my-projects/tree/bash)
+
 
 ## Table of Contents
 * [General Info](#general-information)
